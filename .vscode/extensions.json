@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "vscode-icons-team.vscode-icons",
+        "wingrunr21.vscode-ruby",
+        "misogi.ruby-rubocop",
+        "castwide.solargraph",
+        "hridoy.rails-snippets",
+        "rebornix.ruby",
+        "ms-vscode-remote.remote-containers",
+        "aki77.rails-db-schema",
+        "yzhang.markdown-all-in-one",
+        "ms-vsliveshare.vsliveshare-pack",
+        "ms-vsliveshare.vsliveshare-audio",
+        "ms-vsliveshare.vsliveshare",
+        "graphql.vscode-graphql",
+        "hayden.extension-pack-manager",
+        "kaiwood.endwise",
+        "ms-azuretools.vscode-docker",
+        "matthewpi.caddyfile-support",
+        "apollographql.vscode-apollo"
+    ]
+}
